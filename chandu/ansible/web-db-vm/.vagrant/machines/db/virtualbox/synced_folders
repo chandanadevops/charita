@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/devops/lincomm-master/ansible/web-db-vm","disabled":false,"__vagrantfile":true}}}
